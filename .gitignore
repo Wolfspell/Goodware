@@ -1,0 +1,17 @@
+# Ficheiros temporários ou de sistema
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Pastas de exportação ou rascunhos
+/conversoes_temp/
+/rascunhos/
+/pdf_export_temp/
+
+# Ficheiros gerados localmente
+*.sha256
+*.sig
+*.gpg
+*.md.pdf
